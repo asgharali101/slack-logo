@@ -1,0 +1,23 @@
+{
+  "name": "slack-logo-g",
+  "version": "1.0.0",
+  "description": "",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "tailwindcss": "^3.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asgharburdi/slack-logo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asgharburdi/slack-logo/issues"
+  },
+  "homepage": "https://github.com/asgharburdi/slack-logo#readme"
+}
